@@ -7,4 +7,4 @@ xhofe/alist:latest
 cskefu/contact-center:develop
 mysql:latest
 activemq:5.15.9
-redis：latest
+redis:latest
