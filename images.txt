@@ -8,3 +8,6 @@ cskefu/contact-center:develop
 mysql:latest
 rmohr/activemq:5.15.9
 redis:latest
+cskefu/mysql:5.7
+cskefu/activemq:5.14.3
+cskefu/redis:5.0.5
