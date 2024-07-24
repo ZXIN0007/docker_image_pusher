@@ -11,3 +11,4 @@ redis:latest
 cskefu/mysql:5.7
 cskefu/activemq:5.14.3
 cskefu/redis:5.0.5
+rabbit:3.8-management
